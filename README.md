@@ -1,7 +1,3 @@
-<div style="background: linear-gradient(45deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="color: white; text-align: center;">🚀 Welcome to the Future of Code</h2>
-</div>****
-
 <div align="center">
   <h1>🌟 Welcome to My Digital Universe! 🌟</h1>
   
