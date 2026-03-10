@@ -14,26 +14,10 @@
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 Developer Profile
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EligahYy&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" width="400" onerror="this.style.display='none'" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EligahYy&layout=compact&theme=tokyonight&hide_border=true" width="400" onerror="this.style.display='none'" />
-</div>
-
-```javascript
-const developer = {
-  name: "Eligah Yy",
-  location: "🌍 Global Citizen",
-  pronouns: "He/Him",
-  currentFocus: ["Full Stack Development", "AI Integration", "Open Source"],
-  askMeAbout: ["JavaScript", "React", "Node.js", "Python", "Machine Learning"],
-  
-  funFact: "I turn coffee into code and bugs into features!",
-  
-  contact: {
-    email: "elgahyy@example.com",
-    linkedin: "linkedin.com/in/elgahyy",
-    portfolio: "elgahyy.dev"
-  }
-};
+- 🏷️ **Name**: Eligah Yy
+- 📍 **Location**: 🌍 Global Citizen
+- 🗣️ **Pronouns**: He/Him
+- 🎯 **Focus**: AI, Agent, RAG, MCP, Python,Open Source
+- ☕ **Fun Fact**: I turn coffee into code and bugs into features!
