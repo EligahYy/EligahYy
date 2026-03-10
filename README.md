@@ -19,5 +19,13 @@
 - 🏷️ **Name**: Eligah Yy
 - 📍 **Location**: 🌍 Global Citizen
 - 🗣️ **Pronouns**: He/Him
-- 🎯 **Focus**: AI, Agent, RAG, MCP, Python,Open Source
+- 🎯 **Focus**: AI, Agent, RAG, MCP, Python, Open Source
 - ☕ **Fun Fact**: I turn coffee into code and bugs into features!
+
+---
+
+<div align="center">
+  <h3>✨ Thank you for visiting my profile! ✨</h3>
+</div>
+
+---
